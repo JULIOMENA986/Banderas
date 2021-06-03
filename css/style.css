@@ -1,4 +1,3 @@
-  
 /*bandera Portugal*/
 #portugal span{
     display:inline-block;
@@ -8,6 +7,8 @@
 #portugal span:nth-child(1) 
 {
     background-color:#006847;
+    width:300px;
+    height:500px;
 }
 #portugal span:nth-child(2)
  {
@@ -18,7 +19,7 @@
 img{
   position: absolute;  
   top: 15%;
-  left: 20%;
+  left: 7%;
   width:25%;
   height:35%;
 }   
