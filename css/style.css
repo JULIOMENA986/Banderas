@@ -1,26 +1,4 @@
-/*bandera mexico*/
-#mexico span{
-    display:inline-block;
-    width:500px;
-    height:500px;
-}
-#mexico span:nth-child(1) 
-{
-    background-color:#006847;
-}
-#mexico span:nth-child(2)
- {background-color:#fff;
-}
-#mexico span:nth-child(3) {
-    background-color:#ce1126;
-}
-img{
-    position: absolute;
-  top: 17%;
-  left: 40%;
-  width:15%;
-  height:25%;
-}   
+  
 /*bandera Portugal*/
 #portugal span{
     display:inline-block;
